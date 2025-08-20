@@ -1,6 +1,7 @@
 # 🗳️ Blockchain Voting System
 A simple Python-based Blockchain Voting System that ensures secure, transparent, and tamper-proof elections using blockchain technology.
 
+---
 ## 📌 Table of Contents
 - [Overview](#-overview)  
 - [Problem Statement](#-problem-statement)  
