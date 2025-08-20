@@ -5,18 +5,18 @@ A simple Python-based Blockchain Voting System that ensures secure, transparent,
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)  
-- [Problem Statement](#problem-statement)  
-- [Features](#features)  
-- [How it Works](#how-it-works)    
-- [How to Run](#how-to-run)  
+- [Overview](#-overview)  
+- [Problem Statement](#-problem-statement)  
+- [Features](#-features)  
+- [How it Works](#-how-it-works)    
+- [How to Run](#-how-to-run)  
 - [Tech Stack](#-tech-stack)  
 - [Future Improvements](#-future-improvements)  
 - [File Structure](#-file-structure)  
 
 ---
 
-## Overview
+## 📌 Overview
 This project is a simple **Blockchain-based Voting System** built using Python.  
 It demonstrates how blockchain can be applied in **elections and voting systems** to ensure:  
 - Transparency  
@@ -28,7 +28,7 @@ The system allows users to **cast votes**, **mine blocks** to seal them, and **v
 
 ---
 
-## Problem Statement
+## ❓ Problem Statement
 Traditional voting systems often face challenges such as:  
 - 🕵️ Lack of transparency (voters can’t always verify results).  
 - ✏️ Possibility of vote tampering or manipulation.  
@@ -40,7 +40,7 @@ Blockchain offers an effective solution by recording votes in a **distributed, i
 
 ---
 
-## Features
+## 🚀 Features
 - 🔒 **Anonymous voting** – voter IDs are hashed (hidden).  
 - ⛓️ **Blockchain structure** – each block contains votes and links to the previous block.  
 - 🛡️ **Proof of Work** – prevents tampering with past votes.  
@@ -49,7 +49,7 @@ Blockchain offers an effective solution by recording votes in a **distributed, i
 
 ---
 
-## How it Works
+## 🏗️ How it Works
 1. **Casting Votes**  
    - A user votes by submitting their voter ID and chosen candidate.  
    - The system hides the voter ID (so it’s private) and records the vote.  
@@ -69,7 +69,7 @@ Blockchain offers an effective solution by recording votes in a **distributed, i
 
 ---
 
-## How to Run
+## 🖥️ How to Run
 
 ### 1. Clone the Repository
 ```bash
@@ -83,13 +83,13 @@ python blockchain_voting.py
 ```
 ---
 
-## 📌 Tech Stack
+## 🧑‍💻 Tech Stack
 - **Language:** Python 🐍  
 - **Core Concept:** Blockchain (custom implementation)  
 - **Libraries:** hashlib, json, time, collections  
 
 ---
-## Future Improvements
+## 🔮 Future Improvements
 - 🌐 Build a **Flask/Django Web API** for online voting.  
 - 🔑 Prevent **duplicate votes** with stronger voter ID checks.  
 - 🧑‍🤝‍🧑 Make it **multi-node** so multiple machines maintain the blockchain.  
@@ -97,7 +97,7 @@ python blockchain_voting.py
 
 ---
 
-## File Structure
+## 📂 File Structure
 ```
  Blockchain-Voting-System/
     ├── blockchain_voting.py # Main Python script
