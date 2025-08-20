@@ -9,12 +9,10 @@ A simple Python-based Blockchain Voting System that ensures secure, transparent,
 - [Problem Statement](#-problem-statement)  
 - [Features](#-features)  
 - [How it Works](#-how-it-works)    
-- [How to Run](#-how-to-run)
+- [How to Run](#-how-to-run)  
 - [Tech Stack](#-tech-stack)  
 - [Future Improvements](#-future-improvements)  
-- [Tech Stack](#-tech-stack)
-- [File Structure](#-file-structure)   
-
+- [File Structure](#-file-structure)  
 
 ---
 
