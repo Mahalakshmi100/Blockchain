@@ -8,8 +8,8 @@ A simple Python-based Blockchain Voting System that ensures secure, transparent,
 - [Overview](#-overview)  
 - [Problem Statement](#-problem-statement)  
 - [Features](#-features)  
-- [How it Works](#how-it-works)    
-- [How to Run](#how-to-run)   
+- [How it Works](#-how-it-works)    
+- [How to Run](#-how-to-run)   
 - [Tech Stack](#-tech-stack)  
 - [Future Improvements](#-future-improvements)  
 - [File Structure](#-file-structure)  
@@ -51,7 +51,7 @@ Blockchain offers an effective solution by recording votes in a **distributed, i
 
 ---
 
-## 🏗️ How it Works
+## 🔎 How it Works
 
 1. **Casting Votes**  
    - A user votes by submitting their voter ID and chosen candidate.  
@@ -72,7 +72,7 @@ Blockchain offers an effective solution by recording votes in a **distributed, i
 
 ---
 
-## 🖥️ How to Run
+## ▶️ How to Run
 
 ### 1. Clone the Repository
 ```bash
