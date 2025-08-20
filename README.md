@@ -2,15 +2,15 @@
 A simple Python-based Blockchain Voting System that ensures secure, transparent, and tamper-proof elections using blockchain technology.
 
 ## 📌 Table of Contents
-1. [Overview](#-overview)  
-2. [Problem Statement](#-problem-statement)  
-3. [Features](#-features)  
-4. [How it Works](#-how-it-works)    
-5. [How to Run](#-how-to-run)
-6. [Tech Stack](#-tech-stack)  
-7. [Future Improvements](#-future-improvements)  
-8. [Tech Stack](#-tech-stack)
-9. [File Structure](#-file-structure)   
+- [Overview](#-overview)  
+- [Problem Statement](#-problem-statement)  
+- [Features](#-features)  
+- [How it Works](#-how-it-works)    
+- [How to Run](#-how-to-run)
+- [Tech Stack](#-tech-stack)  
+- [Future Improvements](#-future-improvements)  
+- [Tech Stack](#-tech-stack)
+- [File Structure](#-file-structure)   
 
 
 ---
