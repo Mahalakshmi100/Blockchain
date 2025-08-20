@@ -5,11 +5,11 @@ A simple Python-based Blockchain Voting System that ensures secure, transparent,
 
 ## 📌 Table of Contents
 
-- [Overview](#-overview)  
-- [Problem Statement](#-problem-statement)  
-- [Features](#-features)  
-- [How it Works](#-how-it-works)    
-- [How to Run](#-how-to-run)  
+- [Overview](#overview)  
+- [Problem Statement](#problem-statement)  
+- [Features](#features)  
+- [How it Works](#how-it-works)    
+- [How to Run](#how-to-run)  
 - [Tech Stack](#-tech-stack)  
 - [Future Improvements](#-future-improvements)  
 - [File Structure](#-file-structure)  
@@ -83,7 +83,7 @@ python blockchain_voting.py
 ```
 ---
 
-## Tech Stack
+## 📌 Tech Stack
 - **Language:** Python 🐍  
 - **Core Concept:** Blockchain (custom implementation)  
 - **Libraries:** hashlib, json, time, collections  
