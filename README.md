@@ -72,7 +72,7 @@ Blockchain offers an effective solution by recording votes in a **distributed, i
 
 ---
 
-## ▶️ How to Run
+## ⚡ How to Run
 
 ### 1. Clone the Repository
 ```bash
