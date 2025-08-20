@@ -21,10 +21,10 @@ A simple Python-based Blockchain Voting System that ensures secure, transparent,
 ## Overview
 This project is a simple **Blockchain-based Voting System** built using Python.  
 It demonstrates how blockchain can be applied in **elections and voting systems** to ensure:  
-- ✅ Transparency  
-- ✅ Security  
-- ✅ Immutability (votes cannot be changed once recorded)  
-- ✅ Anonymity for voters  
+- Transparency  
+- Security  
+- Immutability (votes cannot be changed once recorded)  
+- Anonymity for voters  
 
 The system allows users to **cast votes**, **mine blocks** to seal them, and **view results** securely.
 
